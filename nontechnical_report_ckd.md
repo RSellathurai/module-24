@@ -96,7 +96,7 @@ Missing values were imputed using median/mode strategies. Categorical features w
 ---
 
 ### Contact
-**Ruban Sellathurai**
+**Ruban Sellathurai**  
 Email: ruban.sellathurai@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/rubansellathurai/](https://www.linkedin.com/in/rubansellathurai/)  
 GitHub: [https://github.com/RSellathurai](https://github.com/RSellathurai)  
