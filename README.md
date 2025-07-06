@@ -14,6 +14,6 @@ The models are trained on a curated clinical dataset with structured, anonymized
 
 ## Files
 
-* [module-24-final-Analysis.ipynb](./module-24-final-Analysis.ipynb): Full model training and evaluation notebook
+* [module-24-final-analysis.ipynb](./module-24-final-analysis.ipynb): Full model training and evaluation notebook
 * [nontechnical_report_ckd.md](./nontechnical_report_ckd.md): Non-Technical report covers the problem, results, important findings, and suggestions for next steps.
 * [technical\_summary\_ckd.md](./technical_summary_ckd.md): Technical explanation of dataset, models, preprocessing, and metrics used
