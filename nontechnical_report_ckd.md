@@ -89,7 +89,7 @@ Missing values were imputed using median/mode strategies. Categorical features w
 ---
 
 ### Notebook
-- [`module-24-final-analysis.ipynb`](module-24-final-analysis.ipynb)
+- [module-24-final-analysis.ipynb](module-24-final-analysis.ipynb)
 - [Exploratory data analysis](https://github.com/RSellathurai/BH_AI_ML_CapstoneProject/blob/main/kidney_disease_eda.ipynb)
 - [Exploratory data analysis Summary](https://github.com/RSellathurai/BH_AI_ML_CapstoneProject/blob/main/README.md)
 
